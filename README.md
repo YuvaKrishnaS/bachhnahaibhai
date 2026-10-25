@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-    <img src="diamond.png"  alt="Godot Wakatime"/>
+    <img src="assets\\diamond.png"  alt="Godot Wakatime"/>
     <h3 align="center"> BachhnaHaiBhai </h3>
     <p align="center">
         Save my gf from the upcoming danger

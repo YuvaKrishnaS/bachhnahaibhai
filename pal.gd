@@ -1,0 +1,23 @@
+class_name Pal
+
+const WHITE := Color("fdfdfd")
+const LIGHT_GRAY := Color("d9d6dc")
+const SALMON := Color("de9594")
+const PEACH := Color("dfb08e")
+const YELLOW := Color("dedb94")
+const GREEN := Color("93dc93")
+const SKY := Color("8fb4de")
+const PERIWINKLE := Color("9396de")
+const LAVENDER := Color("bc93de")
+const PINK := Color("de8fd0")
+
+const DARK_GRAY := Color("4f4a4a")
+const NEAR_BLACK := Color("2d2a31")
+const MAUVE := Color("8f5c85")
+const BRICK := Color("a56a6a")
+const MOSS := Color("6fa56f")
+const TEAL := Color("00a08f")
+const SLATE := Color("5c6f9f")
+const NAVY := Color("3c5c9f")
+const BLUE := Color("4a62b0")
+const PURPLE := Color("7060b0")
